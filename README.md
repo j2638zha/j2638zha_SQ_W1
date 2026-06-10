@@ -12,9 +12,9 @@ To play via GitHub Pages, visit the link provided on the submission page.
 
 ## Assets
 
-| File                      | Source                        |
-| ------------------------- | ----------------------------- |
-| `assets/images/jenga.png` | Unsplash, Created by Saurav S |
+| File                         | Source                        |
+| ---------------------------- | ----------------------------- |
+| `[1]assets/images/jenga.png` | Unsplash, Created by Saurav S |
 
 ## References
 
